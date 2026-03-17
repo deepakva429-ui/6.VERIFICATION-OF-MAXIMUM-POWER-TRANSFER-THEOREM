@@ -70,6 +70,8 @@ voltage (VL) in volts	Load Power (PL) in watts
 3.	Plot a graph between RL and PL and find the RL corresponding to maximum power transfer.
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
+Marks Allocation:
+<img width="1600" height="1023" alt="image" src="https://github.com/user-attachments/assets/8f719270-df8d-432d-8325-b849f21cd1d1" />
 
 **RESULT:**
 
