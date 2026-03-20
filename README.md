@@ -25,28 +25,23 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
-<img width="1520" height="1202" alt="image" src="https://github.com/user-attachments/assets/63404c83-e0d4-4560-9a9e-00cf928be96f" />
-
+<img width="1600" height="1032" alt="image" src="https://github.com/user-attachments/assets/05eb8667-6bcb-4d73-bbf3-d019b097dbcc" />
 
 **MODEL GRAPH:**
-<img width="1565" height="1267" alt="image" src="https://github.com/user-attachments/assets/546f3d4b-55af-4e0a-8fa1-d897fa468bec" />
+<img width="1600" height="1137" alt="image" src="https://github.com/user-attachments/assets/286923e0-64ad-4001-bc0b-59c8f1b707db" />
 
 Resistance (RL) in ohm
 
 **TABULATION:**
  
 **TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
-<img width="1600" height="1128" alt="image" src="https://github.com/user-attachments/assets/e19aab58-e9e9-4996-899e-751c53a3d040" />
-
-
+<img width="1600" height="1137" alt="image" src="https://github.com/user-attachments/assets/61ffeff2-d95f-4f17-bf18-13ca1fc27ce9" />
 
 **TABLE (2): FOR PRACTICAL CALCULATION**
-<img width="1600" height="1405" alt="image" src="https://github.com/user-attachments/assets/bc9749a1-1ce9-4a18-9402-daf3c8f9035d" />
-		
-
+<img width="1600" height="1365" alt="image" src="https://github.com/user-attachments/assets/399292a8-5b10-45e5-a3be-0c366ebfcd36" />
 
 **MODEL CALCULATION:**
-<img width="867" height="1525" alt="image" src="https://github.com/user-attachments/assets/af621f23-7c1c-4e45-ac05-bd01bffc7e98" />
+<img width="916" height="1573" alt="image" src="https://github.com/user-attachments/assets/99842c2b-1f39-4b77-bb18-3c9ff1971250" />
 
 **PROCEDURE:**
 
@@ -60,7 +55,7 @@ Resistance (RL) in ohm
 
 
 Marks Split up:
-<img width="1600" height="1023" alt="image" src="https://github.com/user-attachments/assets/8f719270-df8d-432d-8325-b849f21cd1d1" />
+<img width="1600" height="1048" alt="image" src="https://github.com/user-attachments/assets/4c9c341c-1d1e-4cdf-beb6-08626f576104" />
 
 **RESULT:**
 
